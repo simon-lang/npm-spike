@@ -1,5 +1,5 @@
 {
-  "name": "npm-spike",
+  "name": "@icareworld/npm-spike",
   "version": "1.0.0",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -12,5 +12,8 @@
   "dependencies": {},
   "devDependencies": {
     "react": "^18.2.0"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/icareworld"
   }
 }
