@@ -1,0 +1,16 @@
+{
+  "name": "npm-spike",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "author": "Simon Lang <me@simonlang.org>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "react": "^18.2.0"
+  }
+}
